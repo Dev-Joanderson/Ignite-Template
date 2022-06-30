@@ -1,5 +1,5 @@
  <h1 align="center">
-  Ignite Challenges | ReactJS Concepts
+  Ignite Template
 </h1>
 
 <p align="center">
